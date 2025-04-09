@@ -1,0 +1,40 @@
+key: Text_f6t8on2o
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_LARGE
+    autoSize: false
+    selectable: false
+    animation:
+      durationMs:
+        inputValue:
+          serializedValue: "1440"
+      curve: EASE_IN_OUT_QUINT
+    shadows:
+      - color:
+          inputValue:
+            color:
+              value: "4279442466"
+        dx:
+          inputValue:
+            serializedValue: "2.0"
+        dy:
+          inputValue:
+            serializedValue: "2.0"
+        blurRadius:
+          inputValue:
+            serializedValue: "2.0"
+    textValue:
+      inputValue: Welcome
+    colorValue:
+      inputValue:
+        value: "4291827598"
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  alignment:
+    xValue:
+      inputValue: -0.032
+    yValue:
+      inputValue: -0.619
+featurePresence:
+  hasTextShadows: true

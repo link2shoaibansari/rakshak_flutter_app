@@ -1,0 +1,68 @@
+key: Button_g7p67evy
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_LARGE
+      textValue:
+        inputValue: Get Started
+      fontWeightValue:
+        inputValue: w800
+    iconPadding:
+      type: FF_PADDING_ONLY
+      allValue:
+        inputValue: 0
+    borderRadius:
+      type: FF_BORDER_RADIUS_ONLY
+      topLeftValue:
+        inputValue: 25
+      topRightValue:
+        inputValue: 25
+      bottomLeftValue:
+        inputValue: 25
+      bottomRightValue:
+        inputValue: 25
+      allValue:
+        inputValue: 8
+    innerPadding:
+      leftValue:
+        inputValue: 16
+      rightValue:
+        inputValue: 16
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 40
+    elevationValue:
+      inputValue: 0
+    fillColorValue:
+      inputValue:
+        value: "3338647225"
+    iconPosition: LEADING
+  alignment:
+    xValue:
+      inputValue: 0.027
+    yValue:
+      inputValue: 0.883
+animations:
+  - trigger: ON_ACTION_TRIGGER
+    effects:
+      - curve: EASE_IN_OUT_QUINT
+        tint:
+          color:
+            inputValue:
+              color:
+                value: "4294948537"
+          begin:
+            inputValue:
+              serializedValue: "19.0"
+          end:
+            inputValue:
+              serializedValue: "100"
+        delay:
+          inputValue:
+            serializedValue: "190.0"
+        duration:
+          inputValue:
+            serializedValue: "600.0"
+    applyInitialState: true

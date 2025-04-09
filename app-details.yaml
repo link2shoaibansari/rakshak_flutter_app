@@ -1,0 +1,17 @@
+name: RakshakPlus
+authPageInfo:
+  homePageNodeKey: Scaffold_74v7d30m
+  signInPageNodeKey: Scaffold_8zxc4sb3
+appSettings:
+  advancedSettings:
+    canvasKitSettings: {}
+routingSettings:
+  enableRouting: true
+  pagesAreSubroutesOfRoot: false
+initialPageKeyRef:
+  key: Scaffold_74v7d30m
+allAppNames:
+  appNames:
+    PROD:
+      packageName: com.mycompany.rakshakplus
+      displayName: Rakshak+

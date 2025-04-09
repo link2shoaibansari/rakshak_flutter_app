@@ -1,0 +1,17 @@
+appIconPath: projects/wallpaper-u-i-kjk6pf/assets/n45c1v4ebi75/animated_logo.gif
+splashImage:
+  path: projects/wallpaper-u-i-kjk6pf/assets/n45c1v4ebi75/animated_logo.gif
+  fit: FF_BOX_FIT_COVER
+  dimensions:
+    width:
+      pixelsValue:
+        inputValue: 2000
+  backgroundColor:
+    value: "4284890954"
+  preLoadingColor:
+    value: "4287722109"
+  minSplashScreenDuration: 300
+androidAdaptiveIcon:
+  foregroundImagePath: projects/wallpaper-u-i-kjk6pf/assets/jd0q16v89t18/2icon-8.png
+  backgroundColor:
+    value: "4290600321"

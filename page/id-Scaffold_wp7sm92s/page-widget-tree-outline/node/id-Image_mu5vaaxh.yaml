@@ -1,0 +1,39 @@
+key: Image_mu5vaaxh
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 290
+      height:
+        pixelsValue:
+          inputValue: 270
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 0
+    cacheFadeDuration: 500
+    imageAlignment:
+      yValue:
+        inputValue: -109
+    pathValue:
+      inputValue: projects/wallpaper-u-i-kjk6pf/assets/rhbei14f4w1m/shape-7.png
+    format: FF_IMAGE_FORMAT_AUTO
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  alignment:
+    xValue:
+      inputValue: -1.5
+    yValue:
+      inputValue: -1.3
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

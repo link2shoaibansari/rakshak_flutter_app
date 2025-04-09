@@ -1,0 +1,35 @@
+key: Image_g3d4wae5
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 265.3570144600086
+      height:
+        pixelsValue:
+          inputValue: 143.6
+    borderRadius:
+      type: FF_BORDER_RADIUS_ONLY
+      topLeftValue:
+        inputValue: 20
+      topRightValue:
+        inputValue: 20
+      bottomLeftValue:
+        inputValue: 20
+      bottomRightValue:
+        inputValue: 20
+      allValue:
+        inputValue: 16
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/wallpaper-u-i-kjk6pf/assets/cap26xschskr/Screenshot_2025-03-25_184741.png
+    format: FF_IMAGE_FORMAT_AUTO
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

@@ -1,0 +1,32 @@
+key: Text_w5ob8syh
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    autoSize: false
+    selectable: false
+    animation:
+      durationMs:
+        inputValue:
+          serializedValue: "1440"
+      curve: ELASTIC_OUT
+    textValue:
+      inputValue: "With Rakshak+, Help is Just a Tap Away!"
+    colorValue:
+      inputValue:
+        value: "4293347919"
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  alignment:
+    xValue:
+      inputValue: 0.129
+    yValue:
+      inputValue: -0.413
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}
+featurePresence:
+  hasTextShadows: true

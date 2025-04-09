@@ -1,0 +1,12 @@
+name: emergency_contacts
+description: ""
+params:
+  tesmxo:
+    identifier:
+      name: border
+      key: tesmxo
+    dataType:
+      scalarType: Double
+node:
+  key: Scaffold_9furlfkh
+classModel: {}

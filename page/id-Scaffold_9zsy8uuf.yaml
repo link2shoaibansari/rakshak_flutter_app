@@ -1,0 +1,7 @@
+name: dev_info
+description: ""
+node:
+  key: Scaffold_9zsy8uuf
+pageRouteSettings:
+  routePath: dev_info
+classModel: {}

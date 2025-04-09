@@ -1,0 +1,29 @@
+rootFolders:
+  - key: c4k9xvhp
+    name: pages
+  - key: yhcf1ght
+    name: login_info
+  - key: xnjtjdud
+    name: sos
+  - key: qwn7h4xn
+    name: dashboard
+  - key: m0cvwpuz
+    name: account_info
+  - key: slp7rded
+    name: chatbot
+  - key: e9h5oha5
+    name: women_support
+widgetClassKeyToFolderKey:
+  Scaffold_wp7sm92s: c4k9xvhp
+  Scaffold_8zxc4sb3: yhcf1ght
+  Scaffold_gv5m72of: yhcf1ght
+  Scaffold_axhmd380: qwn7h4xn
+  Scaffold_4dtodq2h: xnjtjdud
+  Scaffold_9furlfkh: xnjtjdud
+  Scaffold_3qomqhi0: xnjtjdud
+  Scaffold_qatiwk3e: qwn7h4xn
+  Scaffold_74v7d30m: yhcf1ght
+  Scaffold_6gj90vnb: slp7rded
+  Scaffold_vj8c135f: m0cvwpuz
+  Scaffold_kaq3yvl9: xnjtjdud
+  Scaffold_9zsy8uuf: m0cvwpuz

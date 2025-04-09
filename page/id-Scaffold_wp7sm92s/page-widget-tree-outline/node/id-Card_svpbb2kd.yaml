@@ -1,0 +1,18 @@
+key: Card_svpbb2kd
+type: Card
+props:
+  card:
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    elevationValue:
+      inputValue: 0
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_BACKGROUND
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 0

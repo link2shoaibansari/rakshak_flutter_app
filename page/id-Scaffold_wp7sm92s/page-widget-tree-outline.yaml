@@ -1,0 +1,13 @@
+node:
+  key: Scaffold_wp7sm92s
+  body:
+    key: Stack_h12qg5rz
+    children:
+      - key: Image_mu5vaaxh
+      - key: Card_svpbb2kd
+        children:
+          - key: Image_g3d4wae5
+      - key: Text_f6t8on2o
+      - key: Button_g7p67evy
+      - key: Text_w5ob8syh
+      - key: Text_hq0vhaz4

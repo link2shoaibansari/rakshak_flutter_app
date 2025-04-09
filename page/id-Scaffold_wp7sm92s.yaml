@@ -1,0 +1,11 @@
+name: Splash_Screen
+description: ""
+params:
+  tesmxo:
+    identifier:
+      name: border
+      key: tesmxo
+    dataType:
+      scalarType: Double
+node:
+  key: Scaffold_wp7sm92s

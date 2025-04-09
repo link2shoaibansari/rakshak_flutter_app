@@ -1,0 +1,12 @@
+name: signin
+description: ""
+params:
+  tesmxo:
+    identifier:
+      name: border
+      key: tesmxo
+    dataType:
+      scalarType: Double
+node:
+  key: Scaffold_gv5m72of
+classModel: {}

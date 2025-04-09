@@ -1,0 +1,12 @@
+name: registration
+description: ""
+params:
+  tesmxo:
+    identifier:
+      name: border
+      key: tesmxo
+    dataType:
+      scalarType: Double
+node:
+  key: Scaffold_8zxc4sb3
+classModel: {}
